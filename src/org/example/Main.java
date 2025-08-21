@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hello and welcome!");
 
-        for (int i = 1; i <= 15; i++) {
+        for (int i = 1; i <= 20; i++) {
             System.out.println("Hello and welcome!");
 
             // wait for 2 seconds (2000 milliseconds)
